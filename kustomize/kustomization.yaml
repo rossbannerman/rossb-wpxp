@@ -1,4 +1,4 @@
 resources:
-  - argocd.yaml
-  - argo-events.yaml
-  - argo-workflows.yaml
+  - argocd
+  - argo-events
+  - argo-workflows
