@@ -1,4 +1,0 @@
-resources:
-  - argocd
-  - argo-events
-  - argo-workflows
